@@ -1,0 +1,4 @@
+v0.0.2.7: Bigger + smoother
+- 400% bigger sprites
+- Tile size: 8 -> 32
+- Adjust everything to make it work
