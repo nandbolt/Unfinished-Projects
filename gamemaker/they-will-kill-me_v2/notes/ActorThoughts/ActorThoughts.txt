@@ -1,0 +1,6 @@
+Undead:
+- Zombie
+- Skeleton
+- Vampire
+- Ghost
+- Demon
