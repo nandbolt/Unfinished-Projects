@@ -13,3 +13,8 @@ in the water.
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/herogen_v2/img1.png?raw=true "Height Map Editor")
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/herogen_v2/img2.png?raw=true "General Biome Editor")
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/herogen_v2/img6.png?raw=true "Player In World")
+
+# Coin Collector v1
+A simple 2D platformer about collecting coins. It was actually the precursor to the graphing calculator game I made. There's a wall jump, hold jump and a dash off the wall by
+pressing the opposite direction and jumping. I think the goal is to see how fast you can collect 20 coins. There's also music and sfxs!
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/coin-collector_v1/img1.png?raw=true "Island Algorithm")
