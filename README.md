@@ -25,3 +25,8 @@ that have game modes. Pressing multiple times cycles the mode (Collect 20, Colle
 
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/coin-collector_v2/img1.png?raw=true "Tutorial Area")
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/coin-collector_v2/img2.png?raw=true "Secret Area")
+
+# They Will Kill Me v1
+I think the goal of this was to have a the human character be autonomous and look for food and water. Then, the player would focus on changing the world and seeing how it
+affected the behavior of the human. The food and water spawn at random locations once collected and the human will try to get to them when they're hungry/thirsty.
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/they-will-kill-me_v1/img1.png?raw=true "Pathfinding To Food")
