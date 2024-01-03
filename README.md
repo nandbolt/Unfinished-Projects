@@ -17,4 +17,11 @@ in the water.
 # Coin Collector v1
 A simple 2D platformer about collecting coins. It was actually the precursor to the graphing calculator game I made. There's a wall jump, hold jump and a dash off the wall by
 pressing the opposite direction and jumping. I think the goal is to see how fast you can collect 20 coins. There's also music and sfxs!
-![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/coin-collector_v1/img1.png?raw=true "Island Algorithm")
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/coin-collector_v1/img1.png?raw=true "Main Room")
+
+# Coin Collector v2
+A more refined version of Coin Collector v1, with smoother platforming, more dash mechanics, a bigger level with a tutorial area, main area and secret area. Contains buttons
+that have game modes. Pressing multiple times cycles the mode (Collect 20, Collect 50, Collect Infinite, Collect Trail).
+
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/coin-collector_v2/img1.png?raw=true "Tutorial Area")
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/coin-collector_v2/img2.png?raw=true "Secret Area")
