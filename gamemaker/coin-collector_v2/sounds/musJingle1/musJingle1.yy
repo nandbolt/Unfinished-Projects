@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "musJingle1",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/music",
   },
   "soundFile": "musJingle1.wav",
-  "duration": 4.005,
+  "duration": 4.0,
   "parent": {
     "name": "Music",
     "path": "folders/Sounds/Music.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "musJingle1",
-  "tags": [],
-  "resourceType": "GMSound",
 }

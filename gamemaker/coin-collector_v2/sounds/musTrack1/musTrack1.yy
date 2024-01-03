@@ -1,4 +1,8 @@
 {
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "musTrack1",
+  "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,
   "preload": false,
@@ -11,13 +15,9 @@
     "path": "audiogroups/music",
   },
   "soundFile": "musTrack1.wav",
-  "duration": 72.005,
+  "duration": 72.0,
   "parent": {
     "name": "Music",
     "path": "folders/Sounds/Music.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "musTrack1",
-  "tags": [],
-  "resourceType": "GMSound",
 }
