@@ -1,0 +1,31 @@
+- Spawns in.
+- Access memory.
+	- If has memory, then use memory to determine what to do.
+	- Else wander/explore.
+- While exploring:
+	- Remembering points of interest.
+		- Location entrances
+		- Food/water sources
+		- Enemy spawn areas
+		- Special/unique locations
+	- Gather items for future use:
+		- Tools
+		- Crafting
+		- Food/water consumption
+		- Building
+	- Look out for possible dangers.
+		- Hostile enemies
+		- Traps
+		- Weather
+	- Determine/pursue goal.
+		- Live a long time.
+- While danger caused by enemy:
+	- Fight enemy
+	- Run away
+- While survival needs not met (hungry/thirsty):
+	- If no survival objects in memory, rush around.
+	- Else, if survival object pertains to need, rush to closest object.
+	- Else, rush around.
+- If health reaches 0:
+	- Die.
+	- Start respawning if respawn enabled.

@@ -1,0 +1,13 @@
+Things to work on:
+- Movement
+- Combat
+- Survival
+- Pathfinding
+
+Human-like character:
+- Human
+- Zombie
+- Vampire
+- Skeleton
+
+>>> Should be able to switch from AI to Controller on the fly.

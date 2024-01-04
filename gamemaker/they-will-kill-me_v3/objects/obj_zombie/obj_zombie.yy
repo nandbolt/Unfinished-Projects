@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_actor_stand",
+    "path": "sprites/spr_actor_stand/spr_actor_stand.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "spr_actor_stand",
+    "path": "sprites/spr_actor_stand/spr_actor_stand.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_actor",
+    "path": "objects/obj_actor/obj_actor.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_human","path":"objects/obj_human/obj_human.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Zombies",
+    "path": "folders/Objects/Actors/Zombies.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_zombie",
+  "tags": [],
+  "resourceType": "GMObject",
+}

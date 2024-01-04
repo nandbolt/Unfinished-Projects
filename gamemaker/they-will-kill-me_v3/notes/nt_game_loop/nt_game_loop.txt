@@ -1,0 +1,31 @@
+- Player spawns into world.
+- Main character spawns into world.
+- If main character reaches goal OR player reaches goal (GAME END STATE):
+	- Game ends.
+- Else, GAME LOOP:
+	- Main character:
+		- Find/pursue goal (GAME END STATE).
+		- Survive, grow, explore.
+		- Survival:
+			- Food/water.
+			- Crafting.
+			- Exploring.
+		- Growth:
+			- Level/XP.
+			- Tools.
+			- Memory/knowledge.
+			- Skills, traits, habits, abilities.
+		- Explore:
+			- Biomes.
+			- Points of interests/special locations.
+			- Items/loot.
+	- Player
+		- Help main character pursue goal OR pursue own goal (GAME END STATE).
+		- Gameplay:
+			- Spawn characters into the world.
+			- Interact with different objects in the world.
+			- Cause world-wide events (Weather).
+			- Collect currencies that can widen your influence.
+		- Growth:
+			- Skills, abilities, powers.
+			- Blood crystals.
