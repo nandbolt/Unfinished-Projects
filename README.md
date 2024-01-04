@@ -44,3 +44,8 @@ You command a slingshot that slings bouncy balls and rockets. Enemies will spawn
 build menu, affecting the pathing the enemies take to the heart.
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/slingshot-defender/img1.png?raw=true "Slinging Balls At Enemies")
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/slingshot-defender/img2.png?raw=true "Build Menu")
+
+# Seedful
+The idea with this one sort of like a gardening game, but the game is affected by real-world weather. The game gets the current weather, date and time from open weather I think.
+If its cloudy I think clouds are supposed to spawn. You can also water the plant manually by clicking.
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/seedful/img1.png?raw=true "Plant With Clouds")
