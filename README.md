@@ -30,3 +30,7 @@ that have game modes. Pressing multiple times cycles the mode (Collect 20, Colle
 I think the goal of this was to have a the human character be autonomous and look for food and water. Then, the player would focus on changing the world and seeing how it
 affected the behavior of the human. The food and water spawn at random locations once collected and the human will try to get to them when they're hungry/thirsty.
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/they-will-kill-me_v1/img1.png?raw=true "Pathfinding To Food")
+
+# They Will Kill Me v2
+This one has very similar logic to the first version, but you click where you want to go and a zombie follows you. There is also a swimming area.
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/they-will-kill-me_v2/img1.png?raw=true "Pathfinding Human And Zombie")
