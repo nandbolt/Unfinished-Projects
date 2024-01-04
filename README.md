@@ -49,3 +49,8 @@ build menu, affecting the pathing the enemies take to the heart.
 The idea with this one sort of like a gardening game, but the game is affected by real-world weather. The game gets the current weather, date and time from open weather I think.
 If its cloudy I think clouds are supposed to spawn. You can also water the plant manually by clicking.
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/seedful/img1.png?raw=true "Plant With Clouds")
+
+# Thousand Cuts
+In this one you are a character with a sword (left click) and shield (right click). Holding either keeps the weapon out and has an active hitbox. The sword was supposed to deal
+damage based on how fast it was moving and everytime it entered an enemy. Never got really far with this one.
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/thousand-cuts/img1.png?raw=true "Player And Dummies")
