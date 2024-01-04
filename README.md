@@ -34,3 +34,7 @@ affected the behavior of the human. The food and water spawn at random locations
 # They Will Kill Me v2
 This one has very similar logic to the first version, but you click where you want to go and a zombie follows you. There is also a swimming area.
 ![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/they-will-kill-me_v2/img1.png?raw=true "Pathfinding Human And Zombie")
+
+# They Will Kill Me v3
+Very similar to the first and second more more flushed out. Human needs food and water while zombie needs human flesh. You can spawn in zombies with energy.
+![alt text](https://github.com/nandbolt/Unfinished-Projects/blob/main/screenshots/they-will-kill-me_v3/img1.png?raw=true "Zombies Chasing Human")
