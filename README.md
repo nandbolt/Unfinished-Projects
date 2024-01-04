@@ -1,4 +1,4 @@
-A collection of projects I never finished. Mostly from GameMaker. Feel free to do whatever you want with them. I hope some are useful.
+A collection of projects I never finished or are prototypes. Mostly from GameMaker. Feel free to do whatever you want with them. I hope some are useful.
 
 ## GameMaker Projects
 - [World Generator](#world-generator)
